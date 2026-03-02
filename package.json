@@ -13,8 +13,10 @@
     "@tailwindcss/vite": "^4.1.18",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
+    "react-modal": "^3.16.3",
     "react-multi-carousel": "^2.8.6",
     "react-slick": "^0.31.0",
+    "react-youtube": "^10.1.0",
     "slick-carousel": "^1.8.1",
     "tailwindcss": "^4.1.18"
   },
