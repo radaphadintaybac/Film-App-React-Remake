@@ -1,6 +1,6 @@
 import rating from "./../assets/rating.png";
 import rating_half from "./../assets/rating-half.png";
-import play_button from "./../assets/play-button.png";
+import play_button from "./../assets/play.png";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 
@@ -90,7 +90,7 @@ const Banner = ({ upcomingFilm }) => {
                         <img
                           src={play_button}
                           alt="play_button"
-                          className="size-15"
+                          className="size-45"
                         />
                       </div>
                     </div>
